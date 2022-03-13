@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://wdev-portfolio.netlify.app/](https://wdev-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at this [link](https://wdev-portfolio.netlify.app/)
 
 - 📫 How to reach me **johanmeci03@gmail.com**
 
