@@ -14,6 +14,7 @@ provide technical knowledge and experience, create new websites from start to fi
 ### 🎯 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/johan-meneses" target="blank"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="linkedin"></a>
+<a href="mailto:johanmeci03@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff" alt="linkedin"></a>
 </p>
 
 ### 💼 Languages and Tools:
