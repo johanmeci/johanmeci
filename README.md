@@ -3,7 +3,7 @@
 feature-rich websites. Analysis and attention to detail to offer original and efficient web solutions, 
 provide technical knowledge and experience, create new websites from start to finish.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="/github_profile_img2.svg" />
+<img align="right" alt="Coding" width="400" src="/github_profile_img.svg" />
 
 - 🌱 I’m currently learning **React and Node.js**
 
