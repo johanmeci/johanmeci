@@ -16,7 +16,7 @@ provide technical knowledge and experience, create new websites from start to fi
 <a href="https://linkedin.com/in/johan-meneses" target="blank"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="linkedin"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 💼 Languages and Tools:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
     <a href="https://jquery.com"><img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=ffffff" alt="jquery"></a>
