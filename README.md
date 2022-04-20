@@ -11,6 +11,8 @@ provide technical knowledge and experience, create new websites from start to fi
 
 - 📫 How to reach me **johanmeci03@gmail.com**
 
+- 🏫 English level **B1**. [Certificate](https://www.efset.org/cert/F6XutV)
+
 ### 🎯 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/johan-meneses" target="blank"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="linkedin"></a>
