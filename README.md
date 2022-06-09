@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Meneses</h1>
-<h3 align="center">Creative web developer, dedicated to developing and optimizing interactive, user-friendly and 
-feature-rich websites. Analysis and attention to detail to offer original and efficient web solutions, 
-provide technical knowledge and experience, create new websites from start to finish.</h3>
+<h3 align="center">I am a web developer with 3 years of experience as a back-end developer and 2+ years as a front-end developer, in the IT services and ERP solutions industry, specifically in the development of web applications to provide support and content consumption for clients.</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="/github_profile_img.svg" />
 
