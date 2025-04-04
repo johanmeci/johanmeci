@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan Meneses</h1>
 <h3 align="center">I am a web developer with 3 years of experience as a back-end developer and 2+ years as a front-end developer, in the IT services and ERP solutions industry, specifically in the development of web applications to provide support and content consumption for clients.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="/github_profile_img.svg" />
+<!--<img align="right" alt="Coding" width="400" src="/github_profile_img.svg" />-->
 
 - 🌱 I’m currently learning **React and Node.js**
 
