@@ -3,12 +3,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Professional Experience
 
-- **[Takeoff Media]**: This role addresses the company's need for concurrent development on both web applications and email marketing campaigns. The key challenge is mastering two distinct and highly specialized technology stacks, from modern web frameworks like Next.js to a full suite of email marketing tools.
+- **[Frontend Developer | Email Developer]**: This role addresses the company's need for concurrent development on both web applications and email marketing campaigns. The key challenge is mastering two distinct and highly specialized technology stacks, from modern web frameworks like Next.js to a full suite of email marketing tools.
   - **Stack**: `Next.js`, `React`, `Vue.js`, `Prismic`, `Stripo`
 
-- **[Siesa]**: This project solved inefficient customer support and internal workflows by creating new WordPress platforms. The key technical challenge involved building custom plugins and integrating REST APIs to automate processes, which significantly improved user experience and operational efficiency.
+- **[Wordpress Developer]**: This project solved inefficient customer support and internal workflows by creating new WordPress platforms. The key technical challenge involved building custom plugins and integrating REST APIs to automate processes, which significantly improved user experience and operational efficiency.
   - **Stack**: `WordPress`, `PHP`, `JavaScript`, `MySQL`, `REST API`
 
 ---
