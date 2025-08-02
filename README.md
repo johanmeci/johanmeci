@@ -1,38 +1,30 @@
-<h1 align="center">Hi 👋, I'm Johan Meneses</h1>
-<h3 align="center">I am a web developer with 3 years of experience as a back-end developer and 2+ years as a front-end developer, in the IT services and ERP solutions industry, specifically in the development of web applications to provide support and content consumption for clients.</h3>
-<br>
-<!--<img align="right" alt="Coding" width="400" src="/github_profile_img.svg" />-->
+<h1 align="center">Johan Meneses | Web Developer</h1>
+<h3 align="center">A passionate Front-End Developer with 5+ years of experience crafting seamless digital experiences for the IT and ERP sectors. My focus is on creating user-centric web applications for support and content platforms, leveraging a robust back-end foundation to ensure high performance and scalability.</h3>
 
-- 🌱 I’m currently learning **React and Node.js**
+---
 
-- 👨‍💻 All of my projects are available at this [link](https://johanmeneses.dev/)
+### 🚀 Featured Projects
 
-- 📫 How to reach me **johanmeci03@gmail.com**
+- **[Takeoff Media]**: This role addresses the company's need for concurrent development on both web applications and email marketing campaigns. The key challenge is mastering two distinct and highly specialized technology stacks, from modern web frameworks like Next.js to a full suite of email marketing tools.
+  - **Stack**: `Next.js`, `React`, `Vue.js`, `Prismic`, `Stripo`
 
-- 🏫 English level **B1**. [Certificate](https://www.efset.org/cert/F6XutV)
+- **[Siesa]**: This project solved inefficient customer support and internal workflows by creating new WordPress platforms. The key technical challenge involved building custom plugins and integrating REST APIs to automate processes, which significantly improved user experience and operational efficiency.
+  - **Stack**: `WordPress`, `PHP`, `JavaScript`, `MySQL`, `REST API`
 
-### 🎯 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/johan-meneses" target="blank"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="linkedin"></a>
-<a href="mailto:johanmeci03@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff" alt="linkedin"></a>
-</p>
+---
 
-### 💼 Languages and Tools:
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-    <a href="https://jquery.com"><img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=ffffff" alt="jquery"></a>
-    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-    <br>
-    <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=ffffff" alt="bootstrap"></a>
-    <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=ffffff" alt="sass"></a>
-    <br>
-    <a href="https://nodejs.org"><img src="https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=ffffff" alt="nodejs"></a>
-    <a href="https://www.php.net"><img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=ffffff" alt="php"></a>
-    <br>
-    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=ffffff" alt="mongodb"></a>
-    <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/sqlserver-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&labelColor=ffffff" alt="sqlserver"></a>
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=ffffff" alt="mysql"></a>
-    <br>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-    <a href="https://github.com/johanmeci"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-</p>
+### 🛠️ Core Skills & Tech Stack
+
+| Category                          | Technologies                                                                          |
+|-----------------------------------|---------------------------------------------------------------------------------------|
+| **Web Development** | `JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3`                                    |
+| **Frontend Development** | `React`, `Next.js`, `Vue.js`, `Tailwind CSS`                                                    |
+| **Backend Development** | `Node.js`, `PHP`, `MySQL`, `SQL Server`                                                                               |
+| **Email Dev** | `Braze`, `Salesforce`, `Stripo`, `Email on Acid`                                      |
+| **CMS & Version Control** | `Prismic`, `WordPress`, `Git`, `GitHub`                                                            |
+
+---
+
+- 🌱 **Currently:** Deepening my skills in microservice architectures and exploring `TypeScript` to enhance code scalability and maintainability.
+- 👨‍💻 **Full Portfolio:** [johanmeneses.dev](https://johanmeneses.dev/)
+- 📫 **Contact:** [johanmeci03@gmail.com](mailto:johanmeci03@gmail.com) | [LinkedIn](https://linkedin.com/in/johan-meneses)
